@@ -20,7 +20,7 @@ public class Exam{
         //Exam3
         Console.WriteLine("Enter number :");
         int user2 = Convert.ToInt32(Console.ReadLine());
-        // IsEven();
+    //IsEven();
         
 
 
@@ -107,7 +107,7 @@ public class Exam{
         }
         //Exam 6
 
-         Book  angry= new Book();
+         Book angry= new Book();
         angry.printDetails();
      
         
